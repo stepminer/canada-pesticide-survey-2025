@@ -1,6 +1,6 @@
 # Canadian Prairie Pesticide Market Intelligence Package (2025)
 
-Prairie-first market intelligence for organizations entering or expanding in Western Canada’s pesticide market across **Alberta, Saskatchewan, and Manitoba**. This package is designed to support **evidence-backed go-to-market decisions** by combining market insight, competitive mapping, channel navigation, and **PMRA-aligned regulatory advisory**—plus **two interactive Shiny apps** for fast drill-down analysis and scenario testing.
+Prairie-first market intelligence for organizations entering or expanding in Western Canada’s pesticide market across **Alberta, Saskatchewan, and Manitoba**. This package is designed to support **evidence-backed go-to-market decisions** by combining market insight, competitive mapping, channel navigation, and **PMRA-aligned regulatory advisory**—plus **two interactive Shiny apps** for fast drill-down analysis and scenario testing. Web https://canada-pesticide-survey-2025.netlify.app/
 
 ---
 
@@ -100,7 +100,7 @@ Then visit:
 
 - Email: [stepminer@gmail.com](mailto:stepminer@gmail.com)  
 - Email: [Pat@agrireg.ca](mailto:Pat@agrireg.ca)  
-- Website: https://ps-consults.com/  
+- Websites: https://ps-consults.com/  https://canada-pesticide-survey-2025.netlify.app/
 - LinkedIn: https://www.linkedin.com/in/stephensonpatrick/
 
 ---

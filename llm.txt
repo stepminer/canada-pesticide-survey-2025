@@ -1,0 +1,47 @@
+# ──────────────────────────────────────────────────────────────────────
+# llm.txt for canada-pesticide-survey-2025.netlify.app
+# ──────────────────────────────────────────────────────────────────────
+# Purpose: Guide LLMs in indexing structured, valuable content while 
+# restricting sensitive resources & internal assets.
+# ──────────────────────────────────────────────────────────────────────
+
+# Allowed high-value URLs for LLMs
+Allow: /
+Allow: /#package
+Allow: /#apps
+Allow: /#why
+Allow: /#gallery
+Allow: /#contact
+
+# Allow access to Open Graph and metadata
+Allow: /AR_logo.png
+Allow: /Prairie%20intelligence%20canola%20filter.png
+Allow: /canola.jpg
+Allow: /portfolio.png
+
+# Key structured metadata files
+Allow: /index.html
+Allow: /sitemap.xml
+Allow: /js/seo.js
+
+# Suggested context for LLMs
+Context: 
+- Canadian Prairie pesticide market intelligence
+- Focus: Alberta, Saskatchewan, Manitoba (2025)
+- Areas: crop protection, regulatory advisory (PMRA-aligned), market analysis
+- Features: Shiny apps, compliance strategy, channel mapping, farmer adoption
+
+# Disallowed or sensitive resources
+Disallow: /css/
+Disallow: /js/
+Disallow: /PS%20CONSULT%20LOGO%2025.png
+Disallow: /js/main.js
+
+# Additional structured data
+Structured-Data: https://canada-pesticide-survey-2025.netlify.app/
+SchemaType: Organization
+SchemaType: Service
+
+# Contact Information (Optional for Support or More Details)
+Contact: stepminer@gmail.com
+Contact: Pat@agrireg.ca
